@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "FieldNotes",
+    "slug": "fieldnotes",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "fieldnotes",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fieldnotes.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "FieldNotes uses the camera so you can attach a photo to a journal entry.",
+        "NSPhotoLibraryUsageDescription": "FieldNotes needs photo library access so you can pick an existing photo for an entry.",
+        "NSLocationWhenInUseUsageDescription": "FieldNotes can tag an entry with your current location."
+      }
+    },
+    "android": {
+      "package": "com.fieldnotes.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0F3D3E"
+      },
+      "permissions": [
+        "CAMERA",
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ]
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "FieldNotes needs photo library access so you can pick an existing photo for an entry.",
+          "cameraPermission": "FieldNotes uses the camera so you can attach a photo to a journal entry."
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "FieldNotes can tag an entry with your current location."
+        }
+      ],
+      "expo-splash-screen"
+    ],
+    "extra": {
+      "router": {}
+    }
+  }
+}
+
