@@ -15,7 +15,6 @@ an optional **PIN lock** keeps your notes private.
 > 
 
 
-| Entries | New entry | Detail | Settings |
 | --- | --- | --- | --- |
 | _screenshot_ | <img width="250" height="459" alt="image" src="https://github.com/user-attachments/assets/fe513e0d-5d3b-403f-9ef2-159df2ed7b77" />
  | <img width="271" height="455" alt="image" src="https://github.com/user-attachments/assets/3ed5f869-db35-4cf1-9ef2-9ddcc4a1ebb8" />
