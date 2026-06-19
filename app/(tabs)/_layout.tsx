@@ -7,7 +7,7 @@ import { colors } from '@/constants/theme';
 
 /**
  * Bottom tabs. Combined with the root Stack and the modal, the app uses three
- * navigation patterns (tabs + stack + modal), exceeding the two required
+ * navigation patterns (tabs + stack + modal)
  *  The offline banner sits above the tabs on every screen.
  */
 export default function TabsLayout() {
