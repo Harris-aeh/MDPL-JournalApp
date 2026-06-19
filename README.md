@@ -12,7 +12,9 @@ an optional **PIN lock** keeps your notes private.
 
 ## Screenshots
 
-
+|<img width="268" height="474" alt="image" src="https://github.com/user-attachments/assets/54120580-9269-495a-a3f5-6ac1848a869a" />
+| |<img width="269" height="475" alt="image" src="https://github.com/user-attachments/assets/fd1a8ae6-2e15-4b6c-ad4a-4d27318f4706" />
+|
 
 | <img width="288" height="470" alt="image" src="https://github.com/user-attachments/assets/98f64dd8-b048-4fed-a1f6-600550e726cd" />
  |
