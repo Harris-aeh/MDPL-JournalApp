@@ -174,8 +174,9 @@ production-style build.
 
 ---
 
-## Add your screenshots
+## Tests
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/6dadfc00-3665-4fa7-9fb5-c10923ad85ce" />
+<img width="964" height="217" alt="image" src="https://github.com/user-attachments/assets/7031f4f7-e4ae-477d-ace2-2aad0e3a58ef" />
 
-1. Run the app, open each main screen, and take a screenshot.
-2. Save them in `assets/screenshots/` and update the table near the top of this README,
-   e.g. `![Entries](assets/screenshots/entries.png)`.
+
+
