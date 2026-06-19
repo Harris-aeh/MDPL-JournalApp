@@ -34,8 +34,7 @@ an optional **PIN lock** keeps your notes private.
 - Works **offline** — entries persist locally and load with no connection
 - Offline banner driven by live connectivity status
 - Optional **app lock** with a 4-digit PIN stored securely
-- Subtle **haptic feedback** on key actions (save, delete, errors)
-- Loading / empty / error states for every async operation
+  
 
 ---
 
